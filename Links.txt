@@ -1,0 +1,20 @@
+ National Integrated Water Information System Dashboard:
+ http://www.dwa.gov.za/niwis2/?AspxAutoDetectCookieSupport=1
+ 
+ Checkit Dashboard:
+ http://checkit.org.za/activity
+ 
+ Wazimap Dashboard:
+ https://wazimap.co.za/profiles/ward-79800096-city-of-johannesburg-ward-96-79800096/
+ 
+ Water supply reliability Dashboard:
+ http://www.dwa.gov.za/niwis2/WaterSupplyReliability
+ 
+ Ground water quality Dashboard:
+ http://www.dwa.gov.za/niwis2/GroundwaterQuality
+ 
+ Raw water tariffs:
+ http://www.dwa.gov.za/niwis2/RWT
+ 
+ Surface water storage:
+ http://www.dwa.gov.za/niwis2/SurfaceWaterStorage
