@@ -1,0 +1,6 @@
+User object location --> refers to user location specified by user (could be when they made the account)
+
+First priority (user_tag , if unavailable user specified location)
+** This runs into inefficiencies as for cases where user specified location and geo-location
+   are present we observe a discrepancy between the two values --> Operators will be chasing 'red herrings'
+** This is where auto response will help us 
