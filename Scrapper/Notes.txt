@@ -3,4 +3,7 @@ User object location --> refers to user location specified by user (could be whe
 First priority (user_tag , if unavailable user specified location)
 ** This runs into inefficiencies as for cases where user specified location and geo-location
    are present we observe a discrepancy between the two values --> Operators will be chasing 'red herrings'
-** This is where auto response will help us 
+** If geo-location not avalable --> Narrow it by municipal boundry and sites mentioned --> compare with users location
+   -->If no hits -->ask user to share location/address
+   --> If hits ask user for location/address?? 
+** This is where auto response will help us
